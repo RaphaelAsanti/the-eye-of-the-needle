@@ -17,7 +17,6 @@ Nothing here can be reached from the text.
 It is only a witness to a place.
 Cross‑Links
 ## Cross‑Links
-## Cross‑Links
 
 - **[The Eye of the Needle](https://raphaelasanti.github.io/the-eye-of-the-needle/)**  
 - **[Woman in the Wilderness](https://raphaelasanti.github.io/woman-in-the-wilderness/)**  
