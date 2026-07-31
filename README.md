@@ -23,3 +23,11 @@ Cross‑Links
 - **[The End of Time](https://raphaelasanti.github.io/the-end-of-time/)**
 
 
+---
+
+## Author
+
+Raphael E. Asanti  
+July 2026
+
+Main index: https://raphaelasanti.github.io/
