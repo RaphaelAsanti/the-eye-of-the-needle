@@ -16,7 +16,7 @@ All content in this repository is licensed under the **Creative Commons Attribut
 https://creativecommons.org/licenses/by/4.0/
 
 ## Author
-Raphael
+Raphael Asanti
 
 ## Related Repositories
 A complete list of all repositories and pages is available on the main site index:  
