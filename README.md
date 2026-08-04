@@ -1,26 +1,25 @@
-# The Eye of the Needle
+# The Eye of the Needle: Not a Metaphor
 
-## Description
-This repository contains the *Eye of the Needle* page, which presents the core narrative and metaphysical foundation underlying the broader set of explanatory and symbolic works. It includes the account of soul‑memory, the wilderness companion, and the structural context that informs several related repositories.
+A concise structural overview demonstrating that the “eye of the needle” is a real physical location, not a metaphor.  
+This page outlines the literal structure, the historical context, and the narrative implications of restoring the original meaning.
 
-## Page Link
+---
+
+### Files
+index.html — Primary page (HTML)  
 https://raphaelasanti.github.io/the-eye-of-the-needle/
 
-## Core Connections
-- **[Woman in the Wilderness](https://github.com/RaphaelAsanti/woman-in-the-wilderness)** — Contextual and relational background directly connected to this page.
-- **[The End of Time (eBook)](https://github.com/RaphaelAsanti/the-end-of-time)** — Extended structural exposition that builds on concepts introduced here.
-- **[Burned Bull / Elijah](https://github.com/RaphaelAsanti/burned-bull-elijah)** — Scriptural structural analysis that parallels the symbolic method used in this repository.
+### License
+https://github.com/RaphaelAsanti/the-eye-of-the-needle/blob/main/LICENSE
 
-## License
-All content in this repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
-https://creativecommons.org/licenses/by/4.0/
+---
 
-## Author
-Raphael Asanti
+### Author
+Raphael E. Asanti  
+July 2026
 
-## Related Repositories
-A complete list of all repositories and pages is available on the main site index:  
+---
+
+### Related Pages
+Main Index  
 https://raphaelasanti.github.io/
-
-## Last Updated
-August 2026
